@@ -1,4 +1,4 @@
-<h1 align="center">I'm DongWookn Hi~</h1>
+<h1 align="center">Hi, I'm DongWook Min </h1>
 <h3 align="left">I'm Undergraduate students, Majoring in Software</h3>
 <h3 align="left">I am an Artificial Intelligence researcher </h3>
 
