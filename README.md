@@ -1,6 +1,5 @@
 <h1 align="center">Hi, I'm DongWook Min </h1>
-<h3 align="left">I'm Undergraduate students, Majoring in Software</h3>
-<h3 align="left">I am an Artificial Intelligence researcher </h3>
+<h3 align="left">I'm an Undergraduate student, Majoring in Software.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
