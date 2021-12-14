@@ -1,10 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Dongwook-Min&fontAlign=70&fontAlignY=40&animation=twinkling)
 <h3 align="left">👋 Hello World!</h3>
-<br/>
 <h3 align="left">Experience</h3>
-* KNUT AMI Lab. (2019.06 ~ 2021.06)
-* UNIST MVL Lab. (2021.08 ~ )
-<h3 align="left">👋 Hello World!</h3>
+* KNUT AMI Lab. (2019.06 ~ 2021.06)  
+* UNIST MVL Lab. (2021.08 ~ )  
+
 <h3 align="left">📌Stack</h3>
 <div align="leftr"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=black"/></img> &nbsp 
 <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=black"/></img> &nbsp
