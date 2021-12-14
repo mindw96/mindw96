@@ -11,11 +11,9 @@
 <div align="center"><a href="https://mindw96.tistory.com/"><img src="https://img.shields.io/badge/Minugio's&nbsp;Blog-AD29B6?style=flat-square&logo=Windows&logoColor=white"/></a> &nbsp 
 <a href="https://instagram.com/dongwook_min"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 </div>
-  
-    
-   
-   
-   
+<br/>
+<br/>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mindw96&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mindw96&count_private=true)
