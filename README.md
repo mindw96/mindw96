@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Dongwook-Min&fontAlign=70&fontAlignY=40&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Dongwook_Min&fontAlign=70&fontAlignY=40&animation=twinkling)
 <h3 align="left">👋 Hello World!</h3>
 <h3 align="left">📃Experience</h3>
 <ul>
