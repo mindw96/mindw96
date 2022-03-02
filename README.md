@@ -2,8 +2,8 @@
 <h3 align="left">👋 Hello World!</h3>
 <h3 align="left">📃Experience</h3>
 <ul>
-  <li>KNUT AMI Lab. (2019.06 ~ 2021.06)</li>
   <li>UNIST MVL Lab. (2021.08 ~ )</li>
+  <li>KNUT AMI Lab. (2019.06 ~ 2021.06)</li>
 </ul>
 <h3 align="left">📌Stack</h3>
 <div align="leftr"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=black"/></img> &nbsp 
