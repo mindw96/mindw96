@@ -2,7 +2,7 @@
 <h3 align="left">👋 Hello World!</h3>
 <h3 align="left">📃Experience</h3>
 <ul>
-  <li>UNIST MVL Lab. (2021.08 ~ )</li>
+  <li>UNIST MVL Lab. (2021.08 ~ 2022.08)</li>
   <li>KNUT AMI Lab. (2019.06 ~ 2021.06)</li>
 </ul>
 <h3 align="left">📌Stack</h3>
